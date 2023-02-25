@@ -1,0 +1,7 @@
+build/
+
+src/Test.cpp
+
+.vscode/settings.json
+
+.DS_Store
